@@ -47,8 +47,9 @@
  ☁️ Architecting cloud-native solutions on AWS <br>
  🤖 Exploring AI/ML integration in web applications <br>
 
-<!--
+
 ## 📝 Latest Blog Posts
+[View on Medium](https://medium.com/@fahadismail595)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
